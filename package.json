@@ -1,16 +1,16 @@
 {
-    "name": "GupongXyz/PongBail",
+    "name": "kayzennotdev/bail",
     "version": "1.7.3",
-    "description": "WhatsApp Modified By GupongShop",
+    "description": "Have A Nice Day",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/GupongXyz/PongBail",
+    "homepage": "https://github.com/kayzennotdev/bail",
     "repository": {
-        "url": "https://github.com/GupongXyz/PongBail"
+        "url": "https://github.com/kayzennotdev/bail"
     },
     "license": "MIT",
-    "author": "Gupong - Shop",
+    "author": "kayzennotdev",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://GupongXyz/PongBail/issues"
+      "url": "https://kayzennotdev/bail/issues"
     }
 }
